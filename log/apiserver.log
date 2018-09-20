@@ -1,0 +1,160 @@
+{"level":"INFO","timestamp":"2018-09-12 17:01:57.923","file":"go_web_demo/main.go:51","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-12 17:01:57.924","file":"go_web_demo/main.go:48","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-12 17:03:10.683","file":"go_web_demo/main.go:51","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-12 17:03:10.685","file":"go_web_demo/main.go:48","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-12 17:07:19.751","file":"go_web_demo/main.go:51","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-12 17:07:19.753","file":"go_web_demo/main.go:48","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-12 18:28:52.190","file":"model/init.go:29","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"ERROR","timestamp":"2018-09-12 18:28:52.190","file":"model/init.go:33","msg":"Database connection failed.Database name: db_apiserver","data":{"error":"sql: unknown driver \"mysql\" (forgotten import?)"}}
+{"level":"INFO","timestamp":"2018-09-12 18:32:02.021","file":"model/init.go:29","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"ERROR","timestamp":"2018-09-12 18:32:02.021","file":"model/init.go:33","msg":"Database connection failed.Database name: db_apiserver","data":{"error":"sql: unknown driver \"mysql\" (forgotten import?)"}}
+{"level":"INFO","timestamp":"2018-09-12 18:45:00.092","file":"model/init.go:29","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"ERROR","timestamp":"2018-09-12 18:45:00.092","file":"model/init.go:33","msg":"Database connection failed.Database name: db_apiserver","data":{"error":"sql: unknown driver \"mysql\" (forgotten import?)"}}
+{"level":"INFO","timestamp":"2018-09-12 18:47:22.427","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-12 18:47:22.429","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-12 18:47:22.430","file":"go_web_demo/main.go:57","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-12 18:47:22.430","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-13 11:01:19.774","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-13 11:01:19.776","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-13 11:01:19.777","file":"go_web_demo/main.go:57","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-13 11:01:19.778","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"DEBUG","timestamp":"2018-09-13 11:03:14.987","file":"user/create.go:24","msg":"username is: [admin], password is []"}
+{"level":"DEBUG","timestamp":"2018-09-13 11:03:51.078","file":"user/create.go:24","msg":"username is: [], password is [admin]"}
+{"level":"ERROR","timestamp":"2018-09-13 11:03:51.078","file":"user/create.go:30","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found.This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2018-09-13 11:03:51.078","file":"user/create.go:34","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2018-09-13 11:04:24.828","file":"user/create.go:24","msg":"username is: [admin], password is [admin]"}
+{"level":"DEBUG","timestamp":"2018-09-13 11:05:27.463","file":"user/create.go:24","msg":"username is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2018-09-13 11:52:53.253","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-13 11:52:53.254","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-13 11:52:53.255","file":"go_web_demo/main.go:57","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-13 11:52:53.256","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-13 11:52:56.536","file":"user/create.go:27","msg":"URL username: admin2"}
+{"level":"INFO","timestamp":"2018-09-13 11:52:56.536","file":"user/create.go:31","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2018-09-13 11:52:56.536","file":"user/create.go:35","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-09-13 11:52:56.536","file":"user/create.go:37","msg":"username is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2018-09-13 14:09:02.688","file":"user/create.go:27","msg":"URL username: admin2"}
+{"level":"INFO","timestamp":"2018-09-13 14:09:02.698","file":"user/create.go:31","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2018-09-13 14:09:02.698","file":"user/create.go:35","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-09-13 14:09:02.698","file":"user/create.go:37","msg":"username is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2018-09-13 14:09:18.101","file":"user/create.go:27","msg":"URL username: admin2"}
+{"level":"INFO","timestamp":"2018-09-13 14:09:18.101","file":"user/create.go:31","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2018-09-13 14:09:18.101","file":"user/create.go:35","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-09-13 14:09:18.101","file":"user/create.go:37","msg":"username is: [admin], password is []"}
+{"level":"INFO","timestamp":"2018-09-13 14:09:29.709","file":"user/create.go:27","msg":"URL username: admin2"}
+{"level":"INFO","timestamp":"2018-09-13 14:09:29.709","file":"user/create.go:31","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2018-09-13 14:09:29.709","file":"user/create.go:35","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-09-13 14:09:29.709","file":"user/create.go:37","msg":"username is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2018-09-13 14:09:52.851","file":"user/create.go:27","msg":"URL username: admin2"}
+{"level":"INFO","timestamp":"2018-09-13 14:09:52.852","file":"user/create.go:31","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2018-09-13 14:09:52.852","file":"user/create.go:35","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-09-13 14:09:52.852","file":"user/create.go:37","msg":"username is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2018-09-13 14:10:09.851","file":"user/create.go:27","msg":"URL username: admin2"}
+{"level":"INFO","timestamp":"2018-09-13 14:10:09.851","file":"user/create.go:31","msg":"URL key param desc: test"}
+{"level":"INFO","timestamp":"2018-09-13 14:10:09.851","file":"user/create.go:35","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-09-13 14:10:09.851","file":"user/create.go:37","msg":"username is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2018-09-14 16:58:27.536","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 16:58:27.537","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 16:58:27.538","file":"go_web_demo/main.go:57","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-14 16:58:27.539","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-14 17:02:04.990","file":"user/create.go:17","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 17:02:04.990","file":"user/create.go:28","msg":"URL username: "}
+{"level":"INFO","timestamp":"2018-09-14 17:02:04.990","file":"user/create.go:32","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2018-09-14 17:02:04.991","file":"user/create.go:36","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-09-14 17:02:04.991","file":"user/create.go:38","msg":"username is: [kong], password is [kong123]"}
+{"level":"INFO","timestamp":"2018-09-14 17:07:08.841","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 17:07:08.843","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 17:07:08.844","file":"go_web_demo/main.go:57","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-14 17:07:08.845","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-14 17:10:21.671","file":"user/create.go:17","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 17:10:21.671","file":"user/create.go:28","msg":"URL username: "}
+{"level":"INFO","timestamp":"2018-09-14 17:10:21.671","file":"user/create.go:32","msg":"URL key param desc: "}
+{"level":"INFO","timestamp":"2018-09-14 17:10:21.671","file":"user/create.go:36","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2018-09-14 17:10:21.671","file":"user/create.go:38","msg":"username is: [kong], password is [kong123]"}
+{"level":"INFO","timestamp":"2018-09-14 17:16:12.981","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 17:16:12.982","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 17:16:12.983","file":"go_web_demo/main.go:57","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-14 17:16:12.983","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-14 17:16:19.033","file":"user/create.go:16","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 17:18:41.824","file":"user/create.go:16","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 17:19:00.110","file":"user/create.go:16","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 17:23:59.202","file":"user/create.go:16","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 17:24:10.881","file":"user/create.go:16","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 17:32:24.233","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 17:32:24.234","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 17:32:24.236","file":"go_web_demo/main.go:57","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-14 17:32:24.236","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-14 17:32:47.722","file":"user/create.go:16","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 17:34:08.915","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 17:34:08.917","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 17:34:08.918","file":"go_web_demo/main.go:57","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-14 17:34:08.918","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-14 17:34:14.053","file":"user/create.go:16","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 17:42:34.384","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 17:42:34.385","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 17:42:34.387","file":"go_web_demo/main.go:57","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-14 17:42:34.387","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-14 17:42:40.227","file":"user/create.go:16","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 17:44:55.550","file":"config/config.go:76","msg":"Config file changed: /Users/cpx/GoWorkSpace/src/go_web_demo/conf/config.yaml"}
+{"level":"INFO","timestamp":"2018-09-14 17:47:23.409","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 17:47:23.411","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 17:47:23.412","file":"go_web_demo/main.go:57","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-14 17:47:23.412","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-14 17:47:30.647","file":"user/create.go:16","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 17:47:53.406","file":"user/create.go:16","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 17:50:25.005","file":"user/update.go:17","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 18:00:22.985","file":"user/update.go:17","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 18:01:54.622","file":"user/update.go:17","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 18:11:30.500","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 18:11:30.501","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 18:11:30.502","file":"go_web_demo/main.go:57","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-14 18:11:30.503","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-14 18:11:41.144","file":"user/update.go:17","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 18:14:08.342","file":"user/update.go:17","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 18:14:13.022","file":"user/update.go:17","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 18:16:05.915","file":"user/update.go:17","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 18:27:25.709","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 18:27:25.711","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-14 18:27:25.712","file":"go_web_demo/main.go:57","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-14 18:27:25.714","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-14 18:27:31.496","file":"user/update.go:17","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-14 18:28:45.532","file":"user/update.go:17","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-17 15:12:41.332","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"ERROR","timestamp":"2018-09-17 15:12:41.332","file":"model/init.go:35","msg":"Database connection failed.Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: getsockopt: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-17 15:12:41.332","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"ERROR","timestamp":"2018-09-17 15:12:41.333","file":"model/init.go:35","msg":"Database connection failed.Database name: db_apiserver","data":{"error":"dial tcp 127.0.0.1:3306: getsockopt: connection refused"}}
+{"level":"INFO","timestamp":"2018-09-17 15:12:41.333","file":"go_web_demo/main.go:57","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-17 15:12:41.334","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-17 15:20:11.492","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-17 15:20:11.495","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-17 15:20:11.496","file":"go_web_demo/main.go:57","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-17 15:20:11.496","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-17 16:45:08.674","file":"config/config.go:76","msg":"Config file changed: /Users/cpx/GoWorkSpace/src/go_web_demo/conf/config.yaml"}
+{"level":"INFO","timestamp":"2018-09-17 16:53:16.222","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-17 16:53:16.224","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-17 16:53:16.225","file":"go_web_demo/main.go:57","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-17 16:53:16.225","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-17 17:10:28.097","file":"user/create.go:16","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-17 17:14:15.902","file":"user/create.go:16","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-17 17:19:02.117","file":"user/create.go:16","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-17 17:19:15.262","file":"user/create.go:16","msg":"User Create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2018-09-17 17:22:15.489","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-17 17:22:15.490","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-17 17:22:15.491","file":"go_web_demo/main.go:57","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-17 17:22:15.492","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-17 18:07:51.634","file":"config/config.go:76","msg":"Config file changed: /Users/cpx/GoWorkSpace/src/go_web_demo/conf/config.yaml"}
+{"level":"INFO","timestamp":"2018-09-17 18:08:56.756","file":"config/config.go:76","msg":"Config file changed: /Users/cpx/GoWorkSpace/src/go_web_demo/conf/config.yaml"}
+{"level":"INFO","timestamp":"2018-09-17 18:18:45.439","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-17 18:18:45.441","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-17 18:18:45.442","file":"go_web_demo/main.go:67","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-17 18:18:45.442","file":"go_web_demo/main.go:62","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-17 18:18:45.443","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-18 15:21:21.546","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-18 15:21:21.548","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-18 15:21:21.549","file":"go_web_demo/main.go:67","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-18 15:21:21.549","file":"go_web_demo/main.go:62","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-18 15:21:21.550","file":"go_web_demo/main.go:54","msg":"The router has been deployed successfully."}
+{"level":"INFO","timestamp":"2018-09-19 16:19:33.495","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-19 16:19:33.496","file":"model/init.go:31","msg":"root:123456@tcp(127.0.0.1:3306)/db_apiserver?charset=utf8\u0026parseTime=true\u0026loc=Local"}
+{"level":"INFO","timestamp":"2018-09-19 16:19:33.497","file":"go_web_demo/main.go:83","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2018-09-19 16:19:33.497","file":"go_web_demo/main.go:78","msg":"Start to listening the incoming requests on https address: :8081"}
+{"level":"INFO","timestamp":"2018-09-19 16:19:33.498","file":"go_web_demo/main.go:70","msg":"The router has been deployed successfully."}
